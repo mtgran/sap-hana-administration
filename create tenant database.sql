@@ -1,4 +1,5 @@
 hdbsql -n localhost -d SYSTEMDB -i 00 -u system
+
 create database SHA system user password Password1111;
 alter database SHA add 'diserver';
 alter database SHA add 'scriptserver';
