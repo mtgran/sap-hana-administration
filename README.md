@@ -1,2 +1,2 @@
 # sap-hana-administration
-SAP HANA Administration scripts - Marcos
+SAP HANA Administration scripts by Marcos
